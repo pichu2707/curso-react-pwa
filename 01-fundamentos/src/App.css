@@ -1,0 +1,11 @@
+/*Estilos locales*/
+.container{
+    font-size: 4rem;
+}
+
+.container button{
+    font-size: 2rem;
+    margin: 0px 1rem;
+    padding: 1rem 2rem;
+    border-radius: 15px;
+}
